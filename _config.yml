@@ -1,0 +1,11 @@
+title: EInkXT Wallpaper Studio
+description: Prepare crisp wallpapers for Xteink and other E-Ink readers.
+url: "https://evoll.github.io"
+baseurl: "/EInkXTWallpaperStudio"
+markdown: kramdown
+plugins: []
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+include:
